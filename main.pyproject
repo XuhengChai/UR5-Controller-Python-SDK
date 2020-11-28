@@ -1,0 +1,3 @@
+{
+    "files": ["ur_viewmodel.py","ur_socket.py","ur5_ply/wrist3.ply","qmlRobotGui/SliderSpinBoxTwo.qml","ur5_ply/wrist1.ply","ur5_ply/upperarm.ply","ur5_ply/base.ply","ur_trans_matrix.py","qmlRobotGui/Labelspinbox.qml","ur5_ply/shoulder.ply","ur5_ply/forearm.ply","urgui.py","ur_controller.py","qmlRobotGui/main.qml","qmlRobotGui/PageConnect.qml","qmlRobotGui/RefreshSwitch.qml","qmlRobotGui/ColorButton.qml","qmlRobotGui/SliderSpinBox.qml","qmlRobotGui/Spinbox.qml","ur5_ply/wrist2.ply","ur_visual.py"]
+}
