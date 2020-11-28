@@ -1,5 +1,4 @@
 # UR5-Controller-Python-SDK
---------
 
 A simple controller for UR5, including 3D simulation module, robot information detection module, communication module and control module, based on Python--3.6.6, qml, and vtk.
 
